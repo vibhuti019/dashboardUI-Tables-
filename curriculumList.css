@@ -1,0 +1,32 @@
+*{
+    font-family: Arial;
+    font-size: 18px;
+    color: #80949D;
+}
+html{
+    height: 100%;
+    width: 100%;
+}
+body{
+    background-color: #F2F2F6;
+    height: 100%;
+    width: 100%;
+}
+table, th, td {
+    border: 1px solid #80949D;
+    border-collapse: collapse;
+    text-align: center;
+    font-family: Arial;
+    color: #80949D;
+}
+td, th{
+
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+.drop-downs select{
+    background-color: white;
+    border-radius: 5px;
+    border: none;
+    margin-right: 
+}
